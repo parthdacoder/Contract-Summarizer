@@ -1,0 +1,5 @@
+2025-10-04 02:06:15,290 - INFO - Application started - Loading environment variables
+2025-10-04 02:06:15,347 - INFO - Main application interface loaded
+2025-10-04 02:06:15,347 - INFO - OpenAI API key loaded successfully from .env file
+2025-10-04 02:06:15,347 - INFO - OpenAI API key already validated, skipping validation
+2025-10-04 02:06:15,348 - INFO - No file uploaded yet
